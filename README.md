@@ -28,7 +28,7 @@ platzom("sometemos") //SoMeTeMoS
 ```
 
 ## Créditos
-- [Juan Jose Vega](https://twitter.com/juanjosevega17)
+- [Juan Jose Vega](https://twitter.com/juanjosevega99)
 
 ## Licencia 
 
